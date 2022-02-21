@@ -3,12 +3,6 @@ spring:
     nacos:
       discovery:
         server-addr: 192.168.163.155:8848
-    alicloud:
-      access-key: LTAI5tHJZpjswEUGf7eXUBnR
-      secret-key: qAXJunzVocus2ajw54rJ0OMvvyQwCn
-      oss:
-        endpoint: oss-cn-beijing.aliyuncs.com
-        bucket: javaboy-hello
 
   application:
     name: 2020--third-party
